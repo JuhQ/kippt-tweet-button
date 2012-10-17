@@ -1,7 +1,6 @@
-Simple javascript snippet for adding kippt links to tweets in twitter.
+Simple javascript snippet for adding kippt buttons to tweets in twitter.
 Based on the kippt button fork https://github.com/jenius/kippt-button
-How to run: Copy & Paste this code to Google Chrome console while on twitter.com :P
-I'm looking for someone to help me port this into a browser extension, if you know how, please email me
+How to run: Go to extensions tab on Google Chrome (chrome://chrome/extensions/), enable Developer mode, then "Load unpacked extensions" and enjoy
 
 
 2012

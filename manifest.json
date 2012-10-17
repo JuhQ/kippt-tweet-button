@@ -1,0 +1,14 @@
+{
+    "name": "kippt tweet button",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Adds kippt button to tweets in twitter",
+    "permissions": [
+      "tabs"
+    ],
+    "content_scripts": [{
+        "js": ["kippt-twitter.js"],
+        "run_at": "document_end",
+        "matches": ["https://*.twitter.com/*"]
+    }]
+}
